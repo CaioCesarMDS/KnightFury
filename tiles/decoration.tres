@@ -1,0 +1,34 @@
+[gd_resource type="TileSet" load_steps=3 format=3 uid="uid://bthc61akcufm5"]
+
+[ext_resource type="Texture2D" uid="uid://bd2yb6q0rej8r" path="res://assets/sprites/textures/TX Village Props.png" id="1_m7hff"]
+
+[sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_lbhrr"]
+texture = ExtResource("1_m7hff")
+43:29/size_in_atlas = Vector2i(8, 9)
+43:29/0 = 0
+28:35/size_in_atlas = Vector2i(6, 3)
+28:35/0 = 0
+24:31/size_in_atlas = Vector2i(6, 1)
+24:31/0 = 0
+24:29/size_in_atlas = Vector2i(6, 1)
+24:29/0 = 0
+24:33/size_in_atlas = Vector2i(2, 1)
+24:33/0 = 0
+26:33/size_in_atlas = Vector2i(4, 1)
+26:33/0 = 0
+34:30/size_in_atlas = Vector2i(2, 4)
+34:30/0 = 0
+36:30/size_in_atlas = Vector2i(2, 4)
+36:30/0 = 0
+10:21/size_in_atlas = Vector2i(6, 3)
+10:21/0 = 0
+22:16/size_in_atlas = Vector2i(4, 2)
+22:16/0 = 0
+43:7/size_in_atlas = Vector2i(5, 5)
+43:7/0 = 0
+50:22/size_in_atlas = Vector2i(4, 2)
+50:22/0 = 0
+50:22/0/texture_origin = Vector2i(0, 8)
+
+[resource]
+sources/1 = SubResource("TileSetAtlasSource_lbhrr")
